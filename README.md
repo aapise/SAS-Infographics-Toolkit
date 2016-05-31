@@ -35,7 +35,7 @@ The design process began with paper sketches which led to the first Balsamiq wir
 
 ![Paper Prototypes 1](https://github.com/aapise/SAS-Infographics-Toolkit/blob/master/Docs%2C%20Reports%20and%20Screencast/PaperSketch1.jpg)
 ![Paper Prototype 2](https://github.com/aapise/SAS-Infographics-Toolkit/blob/master/Docs%2C%20Reports%20and%20Screencast/PaperSketch2.jpg)
-![Initial Prototype]()
+![Initial Prototype](https://github.com/aapise/SAS-Infographics-Toolkit/blob/master/Docs%2C%20Reports%20and%20Screencast/InitialPrototype.jpg)
 
 A formative evaluation of the initial prototype showed these [results]().
 
