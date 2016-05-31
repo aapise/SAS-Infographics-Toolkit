@@ -37,11 +37,11 @@ The design process began with paper sketches which led to the first Balsamiq wir
 ![Paper Prototype 2](https://github.com/aapise/SAS-Infographics-Toolkit/blob/master/Docs%2C%20Reports%20and%20Screencast/PaperSketch2.jpg)
 ![Initial Prototype](https://github.com/aapise/SAS-Infographics-Toolkit/blob/master/Docs%2C%20Reports%20and%20Screencast/InitialPrototype.jpg)
 
-A formative evaluation of the initial prototype showed these [results]().
+A formative evaluation of the initial prototype was carried out.
 
 After many iterations of design and testing, a final prototype was created using the Blasamiq Mockups.
 
-You can find all the test results here.
+You can find all the test results /[here](https://github.com/aapise/SAS-Infographics-Toolkit/tree/master/Docs%2C%20Reports%20and%20Screencast/Evaluation%20Files).
 
 
 
