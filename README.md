@@ -41,7 +41,7 @@ A formative evaluation of the initial prototype was carried out.
 
 After many iterations of design and testing, a final prototype was created using the Blasamiq Mockups.
 
-You can find all the test results /[here](https://github.com/aapise/SAS-Infographics-Toolkit/tree/master/Docs%2C%20Reports%20and%20Screencast/Evaluation%20Files).
+You can find all the test results [here](https://github.com/aapise/SAS-Infographics-Toolkit/tree/master/Docs%2C%20Reports%20and%20Screencast/Evaluation%20Files).
 
 
 
